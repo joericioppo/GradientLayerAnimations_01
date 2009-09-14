@@ -1,0 +1,198 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* GradientAnimation_01 */ = {
+		activeExec = 0;
+		executables = (
+			52E6086D105B9822008B7529 /* GradientAnimation_01 */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GradientAnimationViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 780}}";
+			sepNavSelRange = "{246, 0}";
+			sepNavVisRange = "{0, 431}";
+			sepNavWindowFrame = "{{0, 41}, {720, 837}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GradientAnimationViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {434, 1974}}";
+			sepNavSelRange = "{2167, 0}";
+			sepNavVisRange = "{1659, 1021}";
+			sepNavWindowFrame = "{{0, 41}, {720, 837}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 52E6086D105B9822008B7529 /* GradientAnimation_01 */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GradientAnimation_01 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GradientAnimation_01 */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 52E60874105B9831008B7529 /* Code sense */;
+		executables = (
+			52E6086D105B9822008B7529 /* GradientAnimation_01 */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 274652707;
+			PBXWorkspaceStateSaveDate = 274652707;
+		};
+		perUserProjectItems = {
+			52E6091B105BB342008B7529 /* PBXTextBookmark */ = 52E6091B105BB342008B7529 /* PBXTextBookmark */;
+			52F12BDA105EDF15005A9DB1 /* PBXTextBookmark */ = 52F12BDA105EDF15005A9DB1 /* PBXTextBookmark */;
+			52F12C73105EF963005A9DB1 /* PBXTextBookmark */ = 52F12C73105EF963005A9DB1 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 52E60873105B9831008B7529 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	52E6086D105B9822008B7529 /* GradientAnimation_01 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GradientAnimation_01;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	52E60873105B9831008B7529 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	52E60874105B9831008B7529 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	52E6087C105B9934008B7529 /* AIGradientLayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 758}}";
+			sepNavSelRange = "{260, 0}";
+			sepNavVisRange = "{0, 261}";
+			sepNavWindowFrame = "{{0, 40}, {720, 838}}";
+		};
+	};
+	52E6087D105B9934008B7529 /* AIGradientLayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 784}}";
+			sepNavSelRange = "{174, 0}";
+			sepNavVisRange = "{0, 1537}";
+			sepNavWindowFrame = "{{0, 41}, {720, 837}}";
+		};
+	};
+	52E6091B105BB342008B7529 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 52E6091C105BB342008B7529 /* CGGeometry.h */;
+		name = "CGGeometry.h: 273";
+		rLen = 0;
+		rLoc = 8591;
+		rType = 0;
+		vrLen = 396;
+		vrLoc = 8376;
+	};
+	52E6091C105BB342008B7529 /* CGGeometry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGGeometry.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h;
+		sourceTree = "<absolute>";
+	};
+	52F12BDA105EDF15005A9DB1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GradientAnimationViewController.m */;
+		rLen = 1;
+		rLoc = 60;
+		rType = 1;
+	};
+	52F12C73105EF963005A9DB1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GradientAnimationViewController.m */;
+		name = "GradientAnimationViewController.m: 93";
+		rLen = 0;
+		rLoc = 2167;
+		rType = 0;
+		vrLen = 1021;
+		vrLoc = 1659;
+	};
+	8D1107310486CEB800E47090 /* GradientAnimation_01-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 41}, {717, 837}}";
+		};
+	};
+}

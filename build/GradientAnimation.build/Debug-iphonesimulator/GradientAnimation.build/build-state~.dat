@@ -1,0 +1,363 @@
+TGradientAnimation
+v7
+r0
+t274445145.032069
+cCheck dependencies
+cProcessInfoPlistFile /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/Info.plist GradientAnimation-Info.plist
+cCompileXIB /Users/test/_dev/_codes/GradientAnimation/MainWindow.xib
+cCompileXIB /Users/test/_dev/_codes/GradientAnimation/GradientAnimationViewController.xib
+cProcessPCH /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientAnimation_Prefix-ctkudgfzfkjhydeykhyhjauuxazm/GradientAnimation_Prefix.pch.gch GradientAnimation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/main.o /Users/test/_dev/_codes/GradientAnimation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/GradientAnimationAppDelegate.o /Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/GradientAnimationViewController.o /Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/AIGradientLayer.o /Users/test/_dev/_codes/GradientAnimation/Classes/AIGradientLayer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/GradientAnimation normal i386
+cGenerateDSYMFile /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app.dSYM /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/GradientAnimation
+cTouch /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A9D273800000000000000EE
+t1251813176
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A67D2580000000000CE6940
+t1248318040
+s13527360
+
+N/Users/test/_dev/_codes/GradientAnimation/Classes/AIGradientLayer.h
+c000000004AAB61E60000000000000105
+t1252745702
+s261
+i<QuartzCore/QuartzCore.h>
+i<UIKit/UIKit.h>
+
+N/Users/test/_dev/_codes/GradientAnimation/Classes/AIGradientLayer.m
+c000000004AAB6CC10000000000000632
+t1252748481
+s1586
+i"AIGradientLayer.h"
+
+N/Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationAppDelegate.h
+c000000004AAB60A20000000000000213
+t1252745378
+s531
+i<UIKit/UIKit.h>
+
+N/Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationAppDelegate.m
+c000000004AAB60A20000000000000294
+t1252745378
+s660
+i"GradientAnimationAppDelegate.h"
+i"GradientAnimationViewController.h"
+
+N/Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationViewController.h
+c000000004AAB6F7C0000000000000193
+t1252749180
+s403
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationViewController.m
+c000000004AAB7BD70000000000000B2D
+t1252752343
+s2861
+i"GradientAnimationViewController.h"
+
+N/Users/test/_dev/_codes/GradientAnimation/GradientAnimationViewController.xib
+c000000004AAB60A200000000000018CA
+t1252745378
+s6346
+
+N/Users/test/_dev/_codes/GradientAnimation/GradientAnimation_Prefix.pch
+c000000004AAB60A200000000000000CB
+t1252745378
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/test/_dev/_codes/GradientAnimation/MainWindow.xib
+c000000004AAB60A20000000000002483
+t1252745378
+s9347
+
+N/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app
+t1252752345
+s238
+
+N/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app.dSYM
+t1252752345
+s102
+
+N/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/GradientAnimation
+t1252752345
+s21484
+
+N/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/GradientAnimationViewController.nib
+t1252752344
+s1151
+
+N/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/Info.plist
+t1252752343
+s637
+
+N/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/MainWindow.nib
+t1252752344
+s1515
+
+N/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/PkgInfo
+t1252752343
+s8
+
+N/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/AIGradientLayer.o
+t1252752344
+s10896
+
+N/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/GradientAnimation.LinkFileList
+c000000004AAB7BD70000000000000282
+t1252752343
+s642
+
+N/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/GradientAnimationAppDelegate.o
+t1252752344
+s38888
+
+N/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/GradientAnimationViewController.o
+t1252752344
+s35372
+
+N/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/main.o
+t1252752344
+s5948
+
+N/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/StaticAnalyzer/normal/i386/AIGradientLayer.plist
+t1252748481
+s275
+
+N/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/StaticAnalyzer/normal/i386/GradientAnimationAppDelegate.plist
+t1252749416
+s275
+
+N/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/StaticAnalyzer/normal/i386/GradientAnimationViewController.plist
+t1252752043
+s275
+
+N/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/StaticAnalyzer/normal/i386/main.plist
+t1252746807
+s275
+
+N/Users/test/_dev/_codes/GradientAnimation/main.m
+c000000004AAB60A2000000000000016B
+t1252745378
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientAnimation_Prefix-bqmhupdqxysccjcueqyzavqcqmei/GradientAnimation_Prefix.pch.pth
+t1252746806
+s1700280
+
+N/var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientAnimation_Prefix-ctkudgfzfkjhydeykhyhjauuxazm/GradientAnimation_Prefix.pch.gch
+t1252752344
+s12957072
+
+NGradientAnimation-Info.plist
+c000000004AAB671D00000000000003B4
+t1252747037
+s948
+
+CAnalyze /Users/test/_dev/_codes/GradientAnimation/Classes/AIGradientLayer.m
+s274441281.900749
+e274441282.151241
+r1
+xAnalyze
+x/Users/test/_dev/_codes/GradientAnimation/Classes/AIGradientLayer.m
+lSLF07#2@75"Analyze /Users/test/_dev/_codes/GradientAnimation/Classes/AIGradientLayer.m274441281#274441282#0(0"0(0#0#67"/Users/test/_dev/_codes/GradientAnimation/Classes/AIGradientLayer.m4300882208#2129"    cd /Users/test/_dev/_codes/GradientAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-generated-files.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-own-target-headers.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-all-target-headers.hmap -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-project-headers.hmap -F/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator -I/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/include -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources/i386 -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources -include /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientAnimation_Prefix-bqmhupdqxysccjcueqyzavqcqmei/GradientAnimation_Prefix.pch --analyze /Users/test/_dev/_codes/GradientAnimation/Classes/AIGradientLayer.m -o /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/StaticAnalyzer/normal/i386/AIGradientLayer.plist0#
+
+CAnalyze /Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationAppDelegate.m
+s274442216.911049
+e274442216.945239
+r1
+xAnalyze
+x/Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationAppDelegate.m
+lSLF07#2@88"Analyze /Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationAppDelegate.m274442216#274442216#0(0"0(0#0#80"/Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationAppDelegate.m4300882208#2155"    cd /Users/test/_dev/_codes/GradientAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-generated-files.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-own-target-headers.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-all-target-headers.hmap -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-project-headers.hmap -F/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator -I/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/include -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources/i386 -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources -include /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientAnimation_Prefix-bqmhupdqxysccjcueqyzavqcqmei/GradientAnimation_Prefix.pch --analyze /Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationAppDelegate.m -o /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/StaticAnalyzer/normal/i386/GradientAnimationAppDelegate.plist0#
+
+CAnalyze /Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationViewController.m
+s274444843.222146
+e274444843.357238
+r1
+xAnalyze
+x/Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationViewController.m
+lSLF07#2@91"Analyze /Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationViewController.m274444843#274444843#0(0"0(0#0#83"/Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationViewController.m4300882208#2161"    cd /Users/test/_dev/_codes/GradientAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-generated-files.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-own-target-headers.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-all-target-headers.hmap -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-project-headers.hmap -F/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator -I/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/include -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources/i386 -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources -include /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientAnimation_Prefix-bqmhupdqxysccjcueqyzavqcqmei/GradientAnimation_Prefix.pch --analyze /Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationViewController.m -o /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/StaticAnalyzer/normal/i386/GradientAnimationViewController.plist0#
+
+CAnalyze /Users/test/_dev/_codes/GradientAnimation/main.m
+s274439607.345930
+e274439607.381008
+r1
+xAnalyze
+x/Users/test/_dev/_codes/GradientAnimation/main.m
+lSLF07#2@56"Analyze /Users/test/_dev/_codes/GradientAnimation/main.m274439607#274439607#0(0"0(0#0#48"/Users/test/_dev/_codes/GradientAnimation/main.m4300882208#2099"    cd /Users/test/_dev/_codes/GradientAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-generated-files.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-own-target-headers.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-all-target-headers.hmap -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-project-headers.hmap -F/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator -I/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/include -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources/i386 -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources -include /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientAnimation_Prefix-bqmhupdqxysccjcueqyzavqcqmei/GradientAnimation_Prefix.pch --analyze /Users/test/_dev/_codes/GradientAnimation/main.m -o /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies274445143#274445143#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/AIGradientLayer.o /Users/test/_dev/_codes/GradientAnimation/Classes/AIGradientLayer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s274445144.941443
+e274445144.999834
+r1
+xCompileC
+xbuild/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/AIGradientLayer.o
+x/Users/test/_dev/_codes/GradientAnimation/Classes/AIGradientLayer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/test/_dev/_codes/GradientAnimation/Classes/AIGradientLayer.m274445144#274445144#0(0"0(0#0#67"/Users/test/_dev/_codes/GradientAnimation/Classes/AIGradientLayer.m4300882208#2120"    cd /Users/test/_dev/_codes/GradientAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-generated-files.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-own-target-headers.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-all-target-headers.hmap -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-project-headers.hmap -F/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator -I/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/include -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources/i386 -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources -include /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientAnimation_Prefix-ctkudgfzfkjhydeykhyhjauuxazm/GradientAnimation_Prefix.pch -c /Users/test/_dev/_codes/GradientAnimation/Classes/AIGradientLayer.m -o /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/AIGradientLayer.o0#
+
+CCompileC build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/GradientAnimationAppDelegate.o /Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s274445144.858405
+e274445144.941336
+r1
+xCompileC
+xbuild/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/GradientAnimationAppDelegate.o
+x/Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationAppDelegate.m274445144#274445144#0(0"0(0#0#80"/Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationAppDelegate.m4300882208#2146"    cd /Users/test/_dev/_codes/GradientAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-generated-files.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-own-target-headers.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-all-target-headers.hmap -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-project-headers.hmap -F/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator -I/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/include -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources/i386 -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources -include /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientAnimation_Prefix-ctkudgfzfkjhydeykhyhjauuxazm/GradientAnimation_Prefix.pch -c /Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationAppDelegate.m -o /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/GradientAnimationAppDelegate.o0#
+
+CCompileC build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/GradientAnimationViewController.o /Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s274445144.923284
+e274445144.990629
+r1
+xCompileC
+xbuild/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/GradientAnimationViewController.o
+x/Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationViewController.m274445144#274445144#0(0"0(0#0#83"/Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationViewController.m4300882208#2152"    cd /Users/test/_dev/_codes/GradientAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-generated-files.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-own-target-headers.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-all-target-headers.hmap -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-project-headers.hmap -F/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator -I/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/include -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources/i386 -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources -include /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientAnimation_Prefix-ctkudgfzfkjhydeykhyhjauuxazm/GradientAnimation_Prefix.pch -c /Users/test/_dev/_codes/GradientAnimation/Classes/GradientAnimationViewController.m -o /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/GradientAnimationViewController.o0#
+
+CCompileC build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/main.o /Users/test/_dev/_codes/GradientAnimation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s274445144.857328
+e274445144.923179
+r1
+xCompileC
+xbuild/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/main.o
+x/Users/test/_dev/_codes/GradientAnimation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/test/_dev/_codes/GradientAnimation/main.m274445144#274445144#0(0"0(0#0#48"/Users/test/_dev/_codes/GradientAnimation/main.m4300882208#2090"    cd /Users/test/_dev/_codes/GradientAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-generated-files.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-own-target-headers.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-all-target-headers.hmap -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-project-headers.hmap -F/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator -I/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/include -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources/i386 -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources -include /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientAnimation_Prefix-ctkudgfzfkjhydeykhyhjauuxazm/GradientAnimation_Prefix.pch -c /Users/test/_dev/_codes/GradientAnimation/main.m -o /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/test/_dev/_codes/GradientAnimation/GradientAnimationViewController.xib
+s274445143.642622
+e274445144.082002
+r1
+xCompileXIB
+x/Users/test/_dev/_codes/GradientAnimation/GradientAnimationViewController.xib
+lSLF07#2@46"CompileXIB GradientAnimationViewController.xib274445143#274445144#0(0"0(0#0#77"/Users/test/_dev/_codes/GradientAnimation/GradientAnimationViewController.xib4300882208#492"    cd /Users/test/_dev/_codes/GradientAnimation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/GradientAnimationViewController.nib /Users/test/_dev/_codes/GradientAnimation/GradientAnimationViewController.xib0#
+
+CCompileXIB /Users/test/_dev/_codes/GradientAnimation/MainWindow.xib
+s274445143.642029
+e274445144.082669
+r1
+xCompileXIB
+x/Users/test/_dev/_codes/GradientAnimation/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib274445143#274445144#0(0"0(0#0#56"/Users/test/_dev/_codes/GradientAnimation/MainWindow.xib4300882208#450"    cd /Users/test/_dev/_codes/GradientAnimation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/MainWindow.nib /Users/test/_dev/_codes/GradientAnimation/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app.dSYM /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/GradientAnimation
+s274445145.015865
+e274445145.028995
+r1
+xGenerateDSYMFile
+x/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app.dSYM
+x/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/GradientAnimation
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/GradientAnimation.app.dSYM build/Debug-iphonesimulator/GradientAnimation.app/GradientAnimation274445145#274445145#0(0"0(0#0#109"/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/GradientAnimation4300882208#422"    cd /Users/test/_dev/_codes/GradientAnimation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/GradientAnimation -o /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app.dSYM0#
+
+CLd /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/GradientAnimation normal i386
+s274445144.999929
+e274445145.015592
+r1
+xLd
+x/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/GradientAnimation
+xnormal
+xi386
+lSLF07#2@114"Link /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/GradientAnimation274445145#274445145#0(0"0(0#0#0"4300882208#949"    cd /Users/test/_dev/_codes/GradientAnimation    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator -F/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator -filelist /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/Objects-normal/i386/GradientAnimation.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/GradientAnimation0#
+
+CProcessInfoPlistFile /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/Info.plist GradientAnimation-Info.plist
+s274445143.628368
+e274445143.641952
+r1
+xProcessInfoPlistFile
+x/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/Info.plist
+xGradientAnimation-Info.plist
+lSLF07#2@36"Process GradientAnimation-Info.plist274445143#274445143#0(0"0(0#0#70"/Users/test/_dev/_codes/GradientAnimation/GradientAnimation-Info.plist4300882208#518"    cd /Users/test/_dev/_codes/GradientAnimation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GradientAnimation-Info.plist -genpkginfo /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app/Info.plist0#
+
+CProcessPCH /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientAnimation_Prefix-bqmhupdqxysccjcueqyzavqcqmei/GradientAnimation_Prefix.pch.pth GradientAnimation_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s274439606.401083
+e274439606.689655
+r1
+xProcessPCH
+x/var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientAnimation_Prefix-bqmhupdqxysccjcueqyzavqcqmei/GradientAnimation_Prefix.pch.pth
+xGradientAnimation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@39"Precompile GradientAnimation_Prefix.pch274439606#274439606#0(0"0(0#0#70"/Users/test/_dev/_codes/GradientAnimation/GradientAnimation_Prefix.pch4300882208#1960"    cd /Users/test/_dev/_codes/GradientAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-generated-files.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-own-target-headers.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-all-target-headers.hmap -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-project-headers.hmap -F/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator -I/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/include -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources/i386 -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources -c /Users/test/_dev/_codes/GradientAnimation/GradientAnimation_Prefix.pch -o /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientAnimation_Prefix-bqmhupdqxysccjcueqyzavqcqmei/GradientAnimation_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientAnimation_Prefix-ctkudgfzfkjhydeykhyhjauuxazm/GradientAnimation_Prefix.pch.gch GradientAnimation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s274445144.082833
+e274445144.857235
+r1
+xProcessPCH
+x/var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientAnimation_Prefix-ctkudgfzfkjhydeykhyhjauuxazm/GradientAnimation_Prefix.pch.gch
+xGradientAnimation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile GradientAnimation_Prefix.pch274445144#274445144#0(0"0(0#0#70"/Users/test/_dev/_codes/GradientAnimation/GradientAnimation_Prefix.pch4300882208#1969"    cd /Users/test/_dev/_codes/GradientAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-generated-files.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-own-target-headers.hmap -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-all-target-headers.hmap -iquote /Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/GradientAnimation-project-headers.hmap -F/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator -I/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/include -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources/i386 -I/Users/test/_dev/_codes/GradientAnimation/build/GradientAnimation.build/Debug-iphonesimulator/GradientAnimation.build/DerivedSources -c /Users/test/_dev/_codes/GradientAnimation/GradientAnimation_Prefix.pch -o /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientAnimation_Prefix-ctkudgfzfkjhydeykhyhjauuxazm/GradientAnimation_Prefix.pch.gch0#
+
+CTouch /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app
+s274445145.029261
+e274445145.032038
+r1
+xTouch
+x/Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app
+lSLF07#2@97"Touch /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app274445145#274445145#0(0"0(0#0#0"4300882208#294"    cd /Users/test/_dev/_codes/GradientAnimation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/test/_dev/_codes/GradientAnimation/build/Debug-iphonesimulator/GradientAnimation.app0#
+
